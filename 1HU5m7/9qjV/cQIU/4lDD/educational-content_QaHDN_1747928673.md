@@ -24,7 +24,6 @@ Spearbit is a distributed network of industry-leading security researchers tackl
 - [Seminars and Breakdowns](#Seminars-and-Breakdowns)
 - [Protocol Diagrams](#Protocol-Diagrams)
 
-
 # Content
 
 This section contains all externally available educational material from Spearbit. The goal of publicizing and creating content like this is to foster and support a community of dedicated researchers consistently motivated to take the next step in their web3 security knowledge and for that material to be just as beneficial to those with more experience in the field as it is to juniors.
